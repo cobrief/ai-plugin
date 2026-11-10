@@ -1,0 +1,19 @@
+{
+  "name": "cobrief",
+  "displayName": "Cobrief",
+  "version": "1.0.0",
+  "description": "Search European procurement data and manage your tender pipeline.",
+  "author": {
+    "name": "Cobrief AS",
+    "url": "https://cobrief.com"
+  },
+  "homepage": "https://cobrief.com/en/",
+  "repository": "https://github.com/cobrief/ai-plugin",
+  "license": "MIT",
+  "keywords": ["procurement", "tenders", "public-sector", "bids"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://help.cobrief.com/en/articles/880255-use-cobrief-in-claude",
+  "supportUrl": "https://cobrief.com/en/contact/",
+  "privacyPolicyUrl": "https://cobrief.com/en/legal/privacy-policy/",
+  "termsOfServiceUrl": "https://cobrief.com/en/legal/terms-of-service/"
+}

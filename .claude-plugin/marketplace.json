@@ -1,0 +1,14 @@
+{
+  "name": "cobrief",
+  "description": "Cobrief for Claude: search European procurement data and manage your tender pipeline.",
+  "owner": {
+    "name": "Cobrief AS",
+    "url": "https://cobrief.com"
+  },
+  "plugins": [
+    {
+      "name": "cobrief",
+      "source": "./"
+    }
+  ]
+}

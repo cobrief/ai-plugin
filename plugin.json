@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cobrief",
+  "version": "1.0.0",
+  "description": "Search European procurement data and manage your tender pipeline.",
+  "author": {
+    "name": "Cobrief AS",
+    "url": "https://cobrief.com"
+  },
+  "homepage": "https://cobrief.com/en/",
+  "repository": "https://github.com/cobrief/ai-plugin",
+  "license": "MIT",
+  "keywords": ["procurement", "tenders", "public-sector", "bids"]
+}
